@@ -1,3 +1,7 @@
+![alt text][logo]
+
+[logo]: https://cdn.picpng.com/warning/small/warning-shield-risk-attention-70488.png "Logo Title Text 2"
+
 # **WARNING**
 
 I am not responsible for wrong use of these proxies.

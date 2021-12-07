@@ -7,4 +7,4 @@ When using these proxies you take full responsibility.
 
 Proxies are for educational purpose only.
 
-# **Proxies are update every hour**
+# **Proxies are updated every hour**
